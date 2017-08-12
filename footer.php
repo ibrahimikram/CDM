@@ -1,5 +1,5 @@
 <footer>
-    <div class="wrapper"> <a href="index.php" id="footer_logo"><img src="images/ujalaFTN.jpg"></a>
+    <div class="wrapper"> <a href="index.php" id="footer_logo">- COMMUNITY DEVELOPMENT FOUNDATION -</a>
 
     </div>
     <div class="wrapper">
@@ -14,5 +14,5 @@
         </nav>
         <div class="tel"><span>+ 92</span> 332 5020616   <span>+ 92</span> 323 5402999 </div>
     </div>
-    <div id="footer_text">Copyright &copy; <a target="_blank" href="https://www.facebook.com/UjalaEPakistan">UjalaEPakistan </a> - All Rights Reserved<br>
+    <div id="footer_text">Copyright &copy; <a target="_blank">CDF</a> - All Rights Reserved<br>
 </footer>

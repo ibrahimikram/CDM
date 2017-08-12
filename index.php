@@ -64,7 +64,7 @@
                             <div class="wrapper"><strong> without DISCRIMINATION”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/3333.jpg" width="720" alt="">
+                    <li> <img src="images/3.jpg" width="720" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“TOGETHER we can bring</span></div>
                             <div class="wrapper"><strong>IMPACTFUL CHANGES”</strong></div>
