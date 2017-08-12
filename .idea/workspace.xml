@@ -24,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -34,11 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="85" column="24" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="24" />
+              <folding>
+                <marker date="1502559388900" expanded="true" signature="1599:1719" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="592" column="29" lean-forward="true" selection-start-line="592" selection-start-column="29" selection-end-line="592" selection-end-column="29" />
+            <state relative-caret-position="184">
+              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -58,8 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>banner2</find>
-      <find>logo</find>
       <find>menu_Active</find>
       <find>menu</find>
       <find>color2</find>
@@ -88,6 +98,8 @@
       <find>bod</find>
       <find>body</find>
       <find>bg</find>
+      <find>text</find>
+      <find>color</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,8 +117,8 @@
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/mission.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -281,12 +293,12 @@
       <workItem from="1499754000035" duration="998000" />
       <workItem from="1499824229795" duration="6000" />
       <workItem from="1499912434186" duration="599000" />
-      <workItem from="1501931267477" duration="6593000" />
+      <workItem from="1501931267477" duration="7554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101760000" />
+    <option name="totallyTimeSpent" value="102721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,20 +471,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="67" column="37" lean-forward="false" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="37" />
-          <folding>
-            <marker date="1502559388900" expanded="true" signature="1599:1719" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="54" column="16" lean-forward="false" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="99" lean-forward="false" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
           <folding />
         </state>
       </provider>
@@ -485,18 +495,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="592" column="29" lean-forward="true" selection-start-line="592" selection-start-column="29" selection-end-line="592" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="235">
+          <caret line="85" column="24" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="24" />
+          <folding>
+            <marker date="1502559388900" expanded="true" signature="1599:1719" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="99" lean-forward="false" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
+        <state relative-caret-position="184">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding />
         </state>
       </provider>

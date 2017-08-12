@@ -22,7 +22,7 @@ body {
 	border:0;
 	font-family: "Century Gothic";
 	font-size: medium;
-	color:#575652;
+	color:white;
 	line-height:22px
 }
 .ic, .ic a {
@@ -82,7 +82,7 @@ h2 strong, .box1 h2 strong {
 	font-weight:700;
 	display:inline-block;
 	width:36px;
-	color:#fff;
+	color:white;
 	text-align:center;
 	background:url(../images/bg_title1.gif) 0 4px repeat-x;
 	margin-right:3px
