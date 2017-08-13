@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>UjalaEPakistan | Help</title>
+    <title>CDM | Help</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,7 +25,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
+        <h1><a href="index.php" id="logo">CDM</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -52,15 +52,15 @@
           <div class="line1">
             <div class="line2 wrapper">
               <section class="col1">
-                <h2><strong>M</strong>ake<span> Donations</span></h2>
+                <h2>Make<span> Donations</span></h2>
                   Help us in our cause by donating and we'll make sure that your contribution is put to good use.
               </section>
               <section class="col1 pad_left1">
-                <h2 class="color2"><strong>J</strong>oin<span> Volunteer</span></h2>
+                <h2 class="color2">Join<span> Volunteer</span></h2>
                 Join an enthusiastic group of people to help us during project execution.
               </section>
               <section class="col1 pad_left1">
-                <h2 class="color3"><strong>H</strong>elp<span> Society</span></h2>
+                <h2 class="color3">Help<span> Society</span></h2>
                 Play your positive role in the society and be rewarded with great self satisfaction and greater reward in the hereafter Insha'Allah.
               </section>
             </div>

@@ -1,5 +1,5 @@
 <footer>
-    <div class="wrapper"> <a href="index.php" id="footer_logo">- COMMUNITY DEVELOPMENT FOUNDATION -</a>
+    <div class="wrapper"> <a href="index.php" id="footer_logo"><img src="images/foot.jpg"></a>
 
     </div>
     <div class="wrapper">
@@ -12,7 +12,7 @@
                 <li class="end"><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
-        <div class="tel"><span>+ 92</span> 332 5020616   <span>+ 92</span> 323 5402999 </div>
+        <div class="tel"><span>+ 1 (443) </span>280-4055</div>
     </div>
     <div id="footer_text">Copyright &copy; <a target="_blank">CDF</a> - All Rights Reserved<br>
 </footer>

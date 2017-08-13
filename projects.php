@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>UjalaEPakistan | Projects</title>
+<title>CDM | Projects</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -26,7 +26,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
+        <h1><a href="index.php" id="logo">CDM</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -52,7 +52,7 @@
         <div class="box11">
           <div class="wrapper">
             <section class="col1">
-                <figure class="left marg_right1"><img src="images/page3_img2.jpg" width="320" alt=""></figure>
+<!--                <figure class="left marg_right1"><img src="images/page3_img2.jpg" width="320" alt=""></figure>-->
 
                  <BR> <h4 align="center" class="color3"><span>Our</span> PORTFOLIO</h4> <br>
                 <p class="pad_bot1">Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters & distributuion of ration to needy families, alongside medical and financial aid. </p>

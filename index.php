@@ -30,7 +30,7 @@
         <!-- header -->
         <header>
             <div class="wrapper">
-                <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
+                <h1><a href="index.php" id="logo">CDM</a></h1>
 <!--                <h1>  <a href="index.php"><img src="images/logo1.png" width="146" height="83"> Ujala E Pakistan</a></h1>-->
                 <nav>
                     <ul id="top_nav">
@@ -87,25 +87,22 @@
           <div class="line1">
             <div class="line2 wrapper">
               <section class="col1">
-                <h2><strong>S</strong>ocial <span>Welfare</span></h2>
+                <h2>Social<span> Welfare</span></h2>
                 <div class="pad_bot1">
-<!--                  <figure><img src="images/page1_img1.jpg" alt=""></figure>-->
                 </div>
                 Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters &
                   distributuion of ration to needy families, alongside medical and financial aid.
               </section>
               <section class="col1 pad_left1">
-                <h2 class="color2"><strong>E</strong>ducation</h2>
+                <h2 class="color2">Education</h2>
                 <div class="pad_bot1">
-<!--                  <figure><img src="images/page1_img2.jpg" alt=""></figure>-->
                 </div>
                 This sector has our utmost attention; bearing education expenses of more than a dozen children, alongside
                 aiding certain requirements of individual students.
               </section>
               <section class="col1 pad_left1">
-                <h2 class="color3"><strong>D</strong>isaster <span>Relief</span></h2>
+                <h2 class="color3">Disaster <span>Relief</span></h2>
                 <div class="pad_bot1">
-<!--                  <figure><img src="images/page1_img3.jpg" alt=""></figure>-->
                 </div>
                     Natural calamities have severe impacts on many people; we have provided active relief work in the recent
                     floods, earthquake and droughts by reaching the source directly.

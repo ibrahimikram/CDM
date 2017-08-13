@@ -105,7 +105,7 @@ h3 {
 }
 
 h4 {
-	color:forestgreen;
+	color:#29349c;
 	font-weight:300;
 	font-size:35px;
 	line-height:1.2em;
@@ -309,7 +309,7 @@ header {
 }
 .box1 {
 	background:url(../images/bg_box1.jpg) top center  #dad6cc;
-	border-top:5px solid forestgreen;
+	border-top:5px solid #0d212c;
 	padding:15px 30px 25px
 }
 .box1 strong {
@@ -324,7 +324,7 @@ header {
 
 .box11 {
 	background:url(../images/bg_box11.jpg) top center  black;
-	border-top:5px solid forestgreen;
+	border-top:5px solid #0d212c;
 	padding:15px 30px 39px
 }
 .box11 strong {
@@ -481,7 +481,7 @@ header {
 	letter-spacing:-1px
 }
 .tabs ul.nav .selected a, .tabs ul.nav a:hover {
-	color:forestgreen;
+	color:#29349c;
 }
 .tabs .tab-content {
 }
@@ -550,7 +550,7 @@ footer {
 	font-weight:300
 }
 .tel span {
-	color:forestgreen;
+	color:#162a35;
 }
 footer nav {
 	float:left

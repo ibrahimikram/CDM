@@ -52,19 +52,22 @@
           <div class="line1 wrapper">
             <section class="col1">
               <h4 class="color3"><span>Our</span> Address</h4>
-                <strong class="address"> Country:<br>
-              City:<br><br>
-              Zip:<br>
-              Phone :  <br>
-              E-Mail: </strong> Pakistan<br>
-              Rawalpindi / Islamabad<br>
-              45000<br>
-              +92 3325020616<br>
-              ujalaepakistan@gmail.com <br>
+                <strong class="address">
+                    Country:<br>
+                    City:<br>
+                    Zip:<br>
+                    Phone:<br>
+                    E-Mail:
+                </strong>
+                    USA<br>
+                    Maryland<br>
+                    20601<br>
+                + 1 (443) 280-4055<br>
+                    cdm@gmail.com <br>
             </section>
 
             <section class="col2 pad_left1">
-                <h4 class="color3"><span>Our</span> Policy</h4>              <p class="pad_bot1"> We here at Ujala E Pakistan believe in complete transperency and to ensure that every penny is effectively used.</p>
+                <h4 class="color3"><span>Our</span> Policy</h4> <p class="pad_bot1"> We here at Community Development Foundation believe in complete transperency and to ensure that every penny is effectively used.</p>
               To achieve that, every donor is welcomed to witness the project's progress by themselves and complete details with calculated expenditures are
             regularly updated after every activity.</section>
           </div>
@@ -93,7 +96,7 @@
                 <textarea cols="1" rows="1" name="message"></textarea>
                 </div>
 
-              <button type='submit' name='submit' class="button2 color3" >Send</button>
+              <button type='submit' name='submit' class="button2 color3">Send</button>
 
           </form>
 
