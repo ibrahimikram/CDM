@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>UjalaEPakistan | Contact</title>
+<title>CDM | Contact</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,7 +25,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">UJALA E PAKISTAN</a></h1>
+        <h1><a href="index.php" id="logo">CDM</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -108,7 +108,7 @@
 
       if (isset($_GET['submit'])) {
           $recipient="ibrahimikram@hotmail.com";
-          $subject="UJALA E PAKISTAN WEB CONTACT";
+          $subject="CDM WEB CONTACT";
           $sender=$_POST["sender"];
           $senderEmail=$_POST["senderEmail"];
           $contact=$_POST["contact#"];
