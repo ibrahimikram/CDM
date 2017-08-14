@@ -481,7 +481,7 @@ header {
 	letter-spacing:-1px
 }
 .tabs ul.nav .selected a, .tabs ul.nav a:hover {
-	color:#29349c;
+	color:#162a35;
 }
 .tabs .tab-content {
 }
@@ -550,7 +550,7 @@ footer {
 	font-weight:300
 }
 .tel span {
-	color:#162a35;
+	color:#29349c;
 }
 footer nav {
 	float:left

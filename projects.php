@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CDM | Projects</title>
+<title>CDF | Projects</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -26,7 +26,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">CDM</a></h1>
+        <h1><a href="index.php" id="logo">CDF</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -55,7 +55,7 @@
                <figure class="left marg_right1"><img src="images/page3_img2.jpg" width="320" alt=""></figure>
 
                  <BR> <h4 align="center" class="color3"><span>Our</span> PORTFOLIO</h4> <br>
-                <p class="pad_bot1">Our portfolio includes: Arranging grand Iftars, Managing an orphanage, Supplying means of marriage to sisters & distributuion of ration to needy families, alongside medical and financial aid. </p>
+                <p class="pad_bot1">Our portfolio includes: Arranging grand Iftars, Covering tutuion fees of bright students, Managing an orphanage, Supplying means of marriage to sisters & distributuion of ration to needy families, alongside medical and financial aid. </p>
                 <p class="pad_bot2"> The foundation of our entire system lies upon versatility. Due to an enthusiastic group of
                                     individuals, the organization never shy's from a challenge. Year after year we adapt and
                                     try to push our activities to the next level.</p>
@@ -103,7 +103,7 @@
                 <h4><span>May 1</span> 2016</h4>
                 <p class="pad_bot2"><strong>Financed brain treatment for a teenager</strong></p>
                 <p class="pad_bot1">Shamsher Malik developed severe damage to his organ due to an infection and went through
-                                    coma for several days. Ujala-e-Pakistan gathered around 2 lac for his treatment.</p>
+                                    coma for several days. CDF and 'Ujala-e-Pakistan' gathered around 2 lac for his treatment.</p>
 
                 <h4><span>June 7</span> 2016</h4>
                 <p class="pad_bot2"><strong>Keeping the tradition, another year of arranging Iftar's throughout the month</strong></p>
@@ -112,7 +112,7 @@
 
                 <h4><span>June 12</span> 2016</h4>
                 <p class="pad_bot2"><strong>Ramadan campaign to provide ration packs to families</strong></p>
-                <p class="pad_bot1">15 families are provided with extensive food utilities that covers more than a month's needs, worth Rs.5500</p>
+                <p class="pad_bot1">15 families are provided with extensive food utilities that covers more than a month's needs, worth $60</p>
 
                 <h4><span>August 9</span> 2016</h4>
                 <p class="pad_bot2"><strong>Donations collected for 'stent' surgery of a female</strong></p>
@@ -185,7 +185,7 @@
                                     and this time a movie screening to lift their moods.</p>
 
                 <h4><span>September 10</span> 2014</h4>
-                <p class="pad_bot2"><strong>Ujala-E-Pakistan's Flood Relief Program</strong></p>
+                <p class="pad_bot2"><strong>CDF's Flood Relief Program</strong></p>
                 <p class="pad_bot1">People lost their homes, source of income and are desperately in need of help due to recent floods.
                                     Completed a successful campaign by transporting large amounts of clothes, food items and medicines
                                     across Jhang District with collaboration of 'Sha'or Society' to aid more than 600 families.</p>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>CDM | Help</title>
+    <title>CDF | Help</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,7 +25,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">CDM</a></h1>
+        <h1><a href="index.php" id="logo">CDF</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -61,7 +61,7 @@
               </section>
               <section class="col1 pad_left1">
                 <h2 class="color3">Help<span> Society</span></h2>
-                Play your positive role in the society and be rewarded with great self satisfaction and greater reward in the hereafter Insha'Allah.
+                Play your positive role in the society and be rewarded with great self satisfaction and greater reward in the hereafter.
               </section>
             </div>
           </div>
@@ -70,7 +70,7 @@
       <div class="wrapper">
         <div class="pad_left2">
           <h4><span>How your Donations</span> Impact Communities</h4>
-          <p class="pad_bot2"><strong> Ever since our inception in 2013, Ujala E Pakistan has helped thousands of individuals by
+          <p class="pad_bot2"><strong> Even before our registration in 2017, CDF has been collaborating with Ujala E Pakistan since 2013 and has helped thousands of individuals by
               catering to their specific needs</strong></p><br>
           <ul style="list-style-type:circle">
               <li>Numerous patients have been helped in their treatment against life threatning diseases ranging from hepatitis,
@@ -83,7 +83,7 @@
               <li>Schooling expenses are actively being covered for many children studying in prestigious schools like 'Allied School'.</li>
               <li>Regular distribution of ration to needy families alongside financial aid have also been actively worked upon.</li>
               <li>In collaboration with 'Sha'oor Society', relief packages were distributed to families in Jhang, Punjab region.</li>
-              <li>We have provided the necessary means of marriage for at least 5 sisters. </li><br>
+              <li>We have provided the necessary means of marriage for at least 7 sisters. </li><br>
           </ul>
 
         </div>

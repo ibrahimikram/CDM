@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CDM | Contact</title>
+<title>CDF | Contact</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,7 +25,7 @@
     <!-- header -->
     <header>
       <div class="wrapper">
-        <h1><a href="index.php" id="logo">CDM</a></h1>
+        <h1><a href="index.php" id="logo">CDF</a></h1>
         <nav>
           <ul id="top_nav">
             <li><a href="index.php"><img src="images/top_icon1.gif" alt=""></a></li>
@@ -67,7 +67,7 @@
             </section>
 
             <section class="col2 pad_left1">
-                <h4 class="color3"><span>Our</span> Policy</h4> <p class="pad_bot1"> We here at Community Development Foundation believe in complete transperency and to ensure that every penny is effectively used.</p>
+                <h4 class="color3"><span>Our</span> Policy</h4> <p class="pad_bot1"> We here at Community Development Foundation believe in complete transparency and to ensure that every penny is effectively used.</p>
               To achieve that, every donor is welcomed to witness the project's progress by themselves and complete details with calculated expenditures are
             regularly updated after every activity.</section>
           </div>

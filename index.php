@@ -30,7 +30,7 @@
         <!-- header -->
         <header>
             <div class="wrapper">
-                <h1><a href="index.php" id="logo">CDM</a></h1>
+                <h1><a href="index.php" id="logo">CDF</a></h1>
 <!--                <h1>  <a href="index.php"><img src="images/logo1.png" width="146" height="83"> Ujala E Pakistan</a></h1>-->
                 <nav>
                     <ul id="top_nav">
@@ -113,10 +113,7 @@
       </div> <br>
       <div class="wrapper">
          <br> <h4 class="color3"><span>Founding</span> Principles</h4>
-        <p class="quot"> Ujala E Pakistan was formed foreseeing the barriers, the lower class faces today. Poverty, illiteracy,
-                         calamities and scarcity of basic life needs, makes everyday life a struggle for many. The NGO will aspire
-                         to work solely for serving the humanity, without discrimination and only for the approval of
-                         God, opposed to gaining any personal benefits
+        <p class="quot"> Feeding, educating and community development for under privileged
             <img src="images/quot2.png" alt="">
         </p>
       </div> <br>
