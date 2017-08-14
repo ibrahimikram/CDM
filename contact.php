@@ -36,7 +36,7 @@
         <nav>
           <ul id="menu">
             <li><a href="index.php">Home</a></li>
-            <li><a href="mission.php">Our Mission</a></li>
+            <li><a href="team.php">Our Team</a></li>
             <li><a href="projects.php">Projects</a></li>
             <li><a href="help.php">How to Help</a></li>
             <li id="menu_active"><a href="contact.php">Contact</a></li>

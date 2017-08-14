@@ -337,6 +337,20 @@ header {
 	position:relative
 }
 
+.boxT {
+	background:url(../images/bg_boxT.jpg) top center  black;
+	border-top:5px solid #0d212c;
+	padding:15px 30px 39px
+}
+.boxT strong {
+	color:#3f3f3f
+}
+.boxT figure {
+	position:relative
+}
+
+
+
 .box2 {
 	background:#0e0c0a;
 	padding:25px 30px 32px

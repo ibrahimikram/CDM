@@ -42,7 +42,7 @@
                 <nav>
                     <ul id="menu">
                         <li id="menu_active"><a href="index.php">Home</a></li>
-                        <li><a href="mission.php">Our Mission</a></li>
+                        <li><a href="team.php">Our Team</a></li>
                         <li><a href="projects.php">Projects</a></li>
                         <li><a href="help.php">How to Help</a></li>
                         <li><a href="contact.php">Contact</a></li>
@@ -52,13 +52,13 @@
             <div class="slider">
 
                 <ul class="items">
-                    <li> <img src="images/1.jpg"  alt="">
+                    <li> <img src="images/1.jpg" height="720" width="465" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“Our mission is to<em> HELP</em></span></div>
                             <div class="wrapper"><strong>anyone who<em> NEEDS</em> it”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/2.jpg" alt="">
+                    <li> <img src="images/2.jpg" height="720" width="465" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“Work for HUMANITY</span></div>
                             <div class="wrapper"><strong> without DISCRIMINATION”</strong></div>
