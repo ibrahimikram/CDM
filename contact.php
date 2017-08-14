@@ -57,13 +57,11 @@
                     City:<br>
                     Zip:<br>
                     Phone:<br>
-                    E-Mail:
                 </strong>
                     USA<br>
-                    Maryland<br>
-                    20601<br>
+                    Baltimore, Maryland<br>
+                    21201<br>
                 + 1 (443) 280-4055<br>
-                    cdm@gmail.com <br>
             </section>
 
             <section class="col2 pad_left1">

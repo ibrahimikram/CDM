@@ -48,6 +48,30 @@
 
       <br> <article id="content">
 
+        <div class="wrapper">
+            <div class="boxT">
+                <div class="wrapper">
+                    <section class="col1">
+                        <div class="pad_bot1">
+                            <section class="col1">
+                            <figure class="left marg_right1"><img src="images/team1.jpg" height="350" width="265" alt=""></figure>
+
+                            <BR> <h4 align="center" class="color3"><span>Mohammed Iqbal</span></h4> <br>
+                            <p class="pad_bot1"> I am a Pediatrician involved in child care since 1993 at 'University of
+                                Maryland', 'Johns Hopkins' and various other hospitals. I did my masters in public health from 'Johns Hopkins School of
+                                Public Health' in 2007 with the intention of working for the less privileged. My passion is hunger alleviation, children
+                                well being and community development. I have been working with poor communities in Pakistan and Baltimore USA to
+                                achieve these goals. On a personal level, I like exploring outdoors, traveling and working with people.   </p>
+
+                                <h4 align="right" class="color3">President</h4>
+
+                            </section>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div> <br> <br>
+
 
         <div class="wrapper">
         <div class="boxT">
@@ -58,13 +82,10 @@
                         <figure class="left marg_right1"><img src="images/team2.jpeg" height="400" width="240" alt=""></figure>
 
                         <BR> <h4 align="center" class="color3"><span>Zeeshan Sheikh</span></h4> <br>
-                        <p class="pad_bot1"> Brother Zeeshan Sheikh who has an MBA in Marketing and a MBA in Information Systems and
-                                        currently working on MicroMaster in Project Management. With this double Masters background he
-                            works in sales and marketing as a Senior Sales Executive with 15 plus years experience, runs a small
-                            business of computers hardware and software, and on the side, he helps ‘newbees’ with their developing
-                            business plans.   </p>
+                        <p class="pad_bot1"> Brother Zeeshan Sheikh has an MBA in Marketing and another one in Information Systems alongside
+                            15 plus years of experience in the field.</p>
                         <p class="pad_bot2"> To keep balance, Brother Zeeshan is a Khateeb, conducts Nikahs. and is a marriage
-                            and youth counselor, treasurer and member of board of trustee at Maryum Islamic Center He enjoys
+                            and youth counselor, treasurer and member of board of trustee at Maryum Islamic Center. He enjoys
                             teaching Qur’an to non Arab speaking families so that they understand the message of Allah.  
                         </p>
 
@@ -73,12 +94,36 @@
                             will tell you that his greatest goal in this life is to be available for the sake of Allah 24/7.
                         </p>
 
+                        <h4 align="right" class="color3">Secretary</h4>
                     </section>
                 </div>
               </section>
-
             </div>
           </div>
+        </div> <br> <br>
+
+        <div class="wrapper">
+            <div class="boxT">
+                <div class="wrapper">
+                    <section class="col1">
+                        <div class="pad_bot1">
+                            <section class="col1">
+                                <figure class="left marg_right1"><img src="images/team3.jpeg" height="350" width="240" alt=""></figure>
+
+                                <BR> <h4 align="center" class="color3"><span>Fasil Saleem</span></h4> <br>
+                                <p class="pad_bot1"> Our treasurer was born and raised in London, England. He is known in the community
+                                    for always lending a helping hand. He has been involved with the community since he moved
+                                    to Maryland. Fasil is known to help out in charity events for churches and mosques alongside community held charity events. When he is not volunteering, you can find him at home with his
+                                    family or close friends. Fasil Saleem also runs and manages the family real estate business.
+                                    If one was to describe him, they would certainly proclaim that he is Helping, Caring, Genuine, Honest
+                                    and Outgoing.  </p>
+
+                                <h4 align="right" class="color3">Treasurer</h4>
+                            </section>
+                        </div>
+                    </section>
+                </div>
+            </div>
         </div>
 
 

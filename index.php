@@ -52,19 +52,19 @@
             <div class="slider">
 
                 <ul class="items">
-                    <li> <img src="images/1.jpg" height="720" width="465" alt="">
+                    <li> <img src="images/img1.png" height="720" width="465" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“Our mission is to<em> HELP</em></span></div>
                             <div class="wrapper"><strong>anyone who<em> NEEDS</em> it”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/2.jpg" height="720" width="465" alt="">
+                    <li> <img src="images/img2.jpg" height="720" width="465" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“Work for HUMANITY</span></div>
                             <div class="wrapper"><strong> without DISCRIMINATION”</strong></div>
                         </div>
                     </li>
-                    <li> <img src="images/3.jpg" width="720" alt="">
+                    <li> <img src="images/img3.jpg" width="720" alt="">
                         <div class="banner">
                             <div class="wrapper"><span>“TOGETHER we can bring</span></div>
                             <div class="wrapper"><strong>IMPACTFUL CHANGES”</strong></div>
@@ -110,7 +110,7 @@
             </div>
           </div>
         </div>
-      </div> <br>
+      </div> <br> <br>
       <div class="wrapper">
          <br> <h4 class="color3"><span>Founding</span> Principles</h4>
         <p class="quot"> Feeding, educating and community development for under privileged
