@@ -88,24 +88,24 @@
 
         </div>
       </div>
-      <div class="wrapper">
-        <div class="box2">
-          <div class="wrapper">
-            <section class="col1">
-              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but.jpg" alt=""></a>
-                <p class="pad_bot2"><strong>How Can You Donate?</strong></p>
-
-                  Account Title: Shuja-ul-Haq <br>
-                  Account Number: 0010029994180018 <br>
-                  Branch Code: 0907 <br>
-                  Bank: Allied Bank <br>
-
-
-              </div>
-            </section>
-          </div>
-        </div>
-      </div>
+<!--      <div class="wrapper">-->
+<!--        <div class="box2">-->
+<!--          <div class="wrapper">-->
+<!--            <section class="col1">-->
+<!--              <div class="wrapper"> <a href="#" class="left marg_right1"><img src="images/donate_but.jpg" alt=""></a>-->
+<!--                <p class="pad_bot2"><strong>How Can You Donate?</strong></p>-->
+<!---->
+<!--                  Account Title: Shuja-ul-Haq <br>-->
+<!--                  Account Number: 0010029994180018 <br>-->
+<!--                  Branch Code: 0907 <br>-->
+<!--                  Bank: Allied Bank <br>-->
+<!---->
+<!---->
+<!--              </div>-->
+<!--            </section>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
     </article>
     <!-- / content -->
 

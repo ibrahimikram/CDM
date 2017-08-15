@@ -54,7 +54,7 @@
                     <section class="col1">
                         <div class="pad_bot1">
                             <section class="col1">
-                            <figure class="left marg_right1"><img src="images/team1.jpg" height="350" width="265" alt=""></figure>
+                            <figure class="left marg_right1"><img src="images/team11.jpeg" height="350" width="265" alt=""></figure>
 
                             <BR> <h4 align="center" class="color3"><span>Mohammed Iqbal</span></h4> <br>
                             <p class="pad_bot1"> I am a Pediatrician involved in child care since 1993 at 'University of

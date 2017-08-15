@@ -12,7 +12,7 @@
                 <li class="end"><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
-        <div class="tel"><span>+ 1 (443) </span>280-4055</div>
+        <div class="tel"><span>+ 1 (443) </span>9052075</div>
     </div>
     <div id="footer_text">Copyright &copy; <a target="_blank">CDF</a> - All Rights Reserved<br>
 </footer>
